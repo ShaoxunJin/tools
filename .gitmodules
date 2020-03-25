@@ -1,0 +1,3 @@
+[submodule "eclipse_git_test"]
+	path = eclipse_git_test
+	url = https://github.com/ShaoxunJin/eclipse_git_test.git
